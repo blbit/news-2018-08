@@ -39,11 +39,15 @@
 
 ## Community: BLbit
 
+![.NET Foundation](dotnetfoundation.png)
+
+---
+
+## Community: BLbit
+
 - BLbit korisnička grupa je dio .NET Foundation-a! - https://www.meetup.com/pro/dotnet/ 
 - Organizujemo zajedničko gledanje .NET Conf keynote-a :)
 - Naredni meetup u septembru/oktobru, kao dio .NET Conf-a
-
-![.NET Foundation](dotnetfoundation.png)
 
 ---
 
