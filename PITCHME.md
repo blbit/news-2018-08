@@ -49,6 +49,8 @@
 - Organizujemo zajedničko gledanje .NET Conf keynote-a :)
 - Naredni meetup u septembru/oktobru, kao dio .NET Conf-a
 
+![.NET Conf](dotnetconf.png)
+
 ---
 
 ## Današnja predavanja
